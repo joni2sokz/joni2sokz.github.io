@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Blog 1 - HCI, dabbling with docker and Prometheus"
+date:   2021-09-24 14:08:03 -0700
+categories: jekyll update
+---
+This week focused on the aspects of the interaction between humans and computers. To be more precise, the topics taught in CIT 485 which revolve around HCI as well as UX. HCI or human-computer interactions, is research in the design and use of computer technology which focuses on the interfaces betweeen people and computers. This also ties into the psychology behind how we as users an become so dependant on computers and technology that there ends up being more interaction with something like our mobile phones than with any actual person in our lives.
+
+Another topic worth mentioning was the set up of this particular blog i am currently writing. The main problem was within the setup of my repository. With the help of my wonderful professor, we managed to clear out unnecessary directories, as well as issues with improper installation of jekyll and it's components.
+
+With my blogs now taken care of, i will be able to move forward with this week's lab wich touches on the use of docker and prometheus. I think my main take away is to ask for help as soon as i hit an obstacle. 
