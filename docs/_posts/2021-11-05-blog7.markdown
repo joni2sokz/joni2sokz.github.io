@@ -1,0 +1,7 @@
+---
+layout: post
+title:  “apache configuration, group projects, final regsitration”
+date:   2021-11-05 23:59:00 -0700
+categories: jekyll update
+---
+This week, like the last has been a bit slower. Steve cancelled class last week so we didnt get a lab assigned which, for many of us, was like having the week off. This didnt stop us from having to work on previous assignments though. I was never able to get the creation of a custom image using docker to run everything. This was an extra step that was meant to automate the steps of this lab which consist of copying main splash pages files into documentroot, add five users, copy each users splash page into the appropriate user space. We also had to copy updated  vhost files into the approriate location, copy custom error pages into the approprate locations and lastly, start apache. As this method is not working properly, i have to look into this more. We have also begun a new lab assignemnt involving .htaccess and its use in configuring the initial settings of a program or in our case, a server. We will be able to use the .htaccess file to  make the server behave in a certain way. For my human computer interaction class, we continued with our mobile app project. I was in charge of creating a mood board for the design. Others worked on preliminary sketches of the app's UI.
