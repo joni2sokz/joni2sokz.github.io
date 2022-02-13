@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Blog 5: Group projects"
-date:   2021-10-22 23:59:00 -0700
-categories: jekyll update
----
-This week has really focused on gorup projects, and that goes for multiple classes. In my human interaction class, we have been working on the foundation for the concept of a mobile application. This app is designed to allow the user of the app to either take a picture or manually enter any ingredients you have laying around the house. The idea is that when you think you dont have anything to make, this app helps you make something out of nothing. Granted, there would have to be some redundancy checks in place to make sure you arent trying to combine a bunch of condiments and expecting a meal. The app would capitalize on object and and text recognition, allowing for the use of the camera. Essentially you point the camera at your pantry or fridge and the app gives you multiple options as well as video resources which will help out those who are "culinarily-challenged". We have just finished up user work roles, artifact model, flow model, and state model for the app. Next week we will most likely start creating physical models of the app and possibly create some early stage renderings. In my Senior design class we also just created groups for a group project which hasnt quite started yet... more to be discussed for tomorrow's class meeting.

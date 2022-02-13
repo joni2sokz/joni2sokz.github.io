@@ -1,7 +1,0 @@
----
-layout: post
-title:  “vhost and htaccess, group projects”
-date:   2021-11-19 23:59:00 -0700
-categories: jekyll update
----
-This week has been pretty slow in terms of assignments. The only class assigning anything has been CIT 384. We had just finished up our vhost and htaccess lab. This lab was surprisingly similar to the previous apache configuration. As stated in the last blog, the purpose of this particular lab was become familiar with and use .htaccess which is basically a configuration file. Configuration files configure the initial settings of a program, or in this case the server. This means that the .htaccess file can be used to make the server behave in a certain way. Each function is basically just a line of text, or code, which tells the server what to do. You can add or change functionality by adding or changing the code in the .htaccess file. This lab also touched on implementing passwords and a protected dev folder. Besides this assignment, we have really spent the majority of our time on our senior design projects. Our group has finally been able to mock up a working URL which can display minimum information. We still plan to further research the steam web APIs as there are still many aspects to them that we are unfamiliar with.

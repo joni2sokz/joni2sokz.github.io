@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Blog 0 - First Blog!"
-date:   2021-09-24 14:08:03 -0700
-categories: jekyll update
----
-So despite this blog being "turned in" late due to my lack of resourcefulness, it will still be here for continuity. I have to admit that this is the first blog i have ever written. I have never really been one to document my life or the things i do on a day-to-day basis. With that out of the way, these last two weeks have touched on some familar and some not so familiar concepts from previous classes. We have gone over creating a curriculum vita or "CV" for short through the use of github allowing for the development of online repositories. Once said repository is successfully copied or "cloned" onto our local machines, we are then able to start modifying html scripts with basic tags in order to format our information. 
-
-While this assignment was fairly straight forward, the main struggles were the need to split the assignment into different phases which needed to be reviewed and approved by my fellow classmates before i could move forward. It wasn't necessarily a problem, but it really slowed down the process, however, it did force me to work on it little by little, which did get rid of the stress of doing things last minute.   

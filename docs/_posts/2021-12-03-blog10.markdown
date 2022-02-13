@@ -1,7 +1,0 @@
----
-layout: post
-title:  “Nearing the end of the semester”
-date:   2021-12-03 23:59:00 -0700
-categories: jekyll update
----
-This week(s) have/has been very uneventful obviously due to the holidays. For senior design class we have sort of taking this week off again due to Thanksgiving and a couple other classes happened to be canceled this week as well. Steve did manage to assign us another lab however. This weeks lab had to do with SSL configuration. The procedure is basically creating a docker image that contains an Apache web server which is configured to serve https://site1.internal. We will also be in charge of making our own certificates. In addition to this, our senior design project has been underway as well. Since presenting our working demo, we have been working on cleaning the page up and just overall researching endpoints. Other classes seem to be starting to wind down as well with last minute assignments.
