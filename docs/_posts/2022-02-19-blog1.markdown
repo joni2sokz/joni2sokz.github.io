@@ -1,0 +1,6 @@
+---
+layout: post
+title:  “Blog 1 - Lets make some changes ”
+date:   2022-02-19 23:59:00 -0700
+categories: jekyll update
+---
