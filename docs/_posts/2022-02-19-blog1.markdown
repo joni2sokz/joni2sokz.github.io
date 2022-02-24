@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  “Blog 1 - Lets make some changes”
+title:  “Blog 1 - Making some changes”
 date:   2022-02-19 23:59:00 -0700
 categories: jekyll update
 ---
-As i said in the previous post, we ran into quite a few snags when trying to set up our automation and infrastructure all together.
+As i said in the previous post, we ran into quite a few snags when trying to set up our automation and infrastructure all together. We were unsuccessful in gretting a proper EC2 instance running, as well as not having implemented that instance through AWS. Since then we have sought out guidance on how to move forward which resulted in a change of plan. We initially chose the route of creating our own infrastructure. This gave us freedom to choose our resources and methods of deploying our EC2 instances, amongst other things. We have now decided to use the "optional project" route which has a more streamlined and direct approach to the project. This entailed giving us step by step guidline on how to use terraform and ansible to complete the tasks, just to list a few. The team has given out tasks, to which i have chosen to create issues for said tasks as well as web server setup and configuration as well as service deployment.
