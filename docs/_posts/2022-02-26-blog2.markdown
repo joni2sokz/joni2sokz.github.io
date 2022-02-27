@@ -4,4 +4,4 @@ title:  “Blog 2 - Updates, Ansible, Terraform and such”
 date:   2022-02-26 23:59:00 -0700
 categories: jekyll update
 ---
-This week consisted on taking a deeper dive into ansible, terraform, and other aspects of the project.
+This week consisted on taking a deeper dive into ansible, terraform, and other aspects of the project. As i have taken on some of the ansible specific portions of the project, it was crucial that my understanding be brought up to spec.
