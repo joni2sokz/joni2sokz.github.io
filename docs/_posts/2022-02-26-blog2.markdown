@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  “Blog 0 - Back to the ol' grind ”
-date:   2022-02-12 23:59:00 -0700
+title:  “Blog 2 - Updates, Ansible, Terraform and such ”
+date:   2022-02-26 23:59:00 -0700
 categories: jekyll update
 ---
-After a well deserved break, its finally time to get back to work. For my CIT Design II class, The group of “team unknown” has had some set backs. Due to some unforeseen complications, after acquiring our domain name which was not necessarily what we wanted, our link lead us to one of our teammate’s blog site. This was an issue which kept us held back for a good while. After resolving that issue, we did try and focus more on trying to get started on the automation. This task proved to be more difficult than expected and further hindered our progress. We have since then gone deeper into our research of EC2 as well as AWS to get a better understanding of what it takes to get a successful automation of our site, Steam Stats.
+This week consisted on taking a deeper dive into ansible, terraform, and other aspects of the project. As i have taken on some of the ansible specific portions of the project, it was crucial that my understanding be brought up to spec.
