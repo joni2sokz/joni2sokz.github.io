@@ -4,3 +4,4 @@ title:  “Blog 3 - issues with ansible...”
 date:   2022-03-05 23:59:00 -0700
 categories: jekyll update
 ---
+This week
