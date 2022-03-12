@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  “Blog 3 - issues with ansible...”
+title:  “Blog 3 - issues with ... everything?”
 date:   2022-03-05 23:59:00 -0700
 categories: jekyll update
 ---
-This week proved to be less successful than I would have wanted.
+This week proved to be less successful than I would have wanted. Most of our attempts to get things working remotely have been failures. We may need to meet as a group in person where we can see eachothers work in real time and have a better understanding of what we need and what takes priority. I personally have many questions i need to clarify with the group. Will report back in next blog.
