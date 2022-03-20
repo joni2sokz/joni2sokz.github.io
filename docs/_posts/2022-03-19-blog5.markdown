@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  “Blog 5 -  ”
-date:   2022-03-19 23:59:00 -0700
+title:  “Blog 5 - Turning the corner ”
+date:   2022-03-18 06:59:00 -0700
 categories: jekyll update
 ---
-This week...
+This week felt like we really found our footing as a group. While we have been trying to stay up to date on our interactions, sometimes our shedules dont line up properly, but this time around we have been in constant communication and have been able to facilitate group meetings into successful colaborations. One of my group members and i figured out an outline for a pair of server ec2 instances.
