@@ -4,4 +4,4 @@ title:  “Blog 6 - Taking a closer look at EC2 instances ”
 date:   2022-04-02 06:59:00 -0700
 categories: jekyll update
 ---
-This week i focused my attention on the 2 EC2 instances required.
+This week i focused my attention on the 2 EC2 instances required for the group project. As i have have not had that much experience i was struggling to figure out how to start it all togeher. I knew i needed to start with some kind of layout or structure. I have also needed to look into terraform and understand how it plays a role in communicating with AWS to host our site.
