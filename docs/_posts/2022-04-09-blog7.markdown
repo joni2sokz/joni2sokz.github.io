@@ -4,4 +4,5 @@ title:  “Blog 7 - Almost there... ”
 date:   2022-04-09 06:59:00 -0700
 categories: jekyll update
 ---
-This week...
+This week i managed to find the layout for the ec2 instaces on terraforms website where they have examples of instances. With the help of Nathan, I managed to find an EC2 layout which we found suitable for our apache instances. From there I was then able to start modifying it with the steam stats data. This did prove to be a bit of an error filled task due to state lock issues. We discovered that working on the same segment of code leads to terraform state lock errors. This is due to terraform trying to protect the state from being written by multiple users at the same time. When we first encountered the problem, we found that the only work around was the use of the “-lock=false” flag, which disable the locking of the state. Oddly enough this issue only effected Nathan and my self, but we have since then been able to fix the issue by deleting our local state files and reinitializing terraform. I also worked on the security groups for for these instances as well. We established ingress and egress security rules for use with our VPC. 
+These security rules, ingress and egress will allow for inbound ssh connections, as well as outbound connections allowing EC2 access to the internet, respectfully. 
